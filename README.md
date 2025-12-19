@@ -1,12 +1,8 @@
 # Animation & Transition Demo
 
-Proyek Flutter ini menampilkan berbagai implementasi animasi mulai dari yang otomatis (Implicit) hingga yang dikontrol penuh (Explicit).
-
 ## Menu Utama
 <p align="center">
   <img src="https://github.com/user-attachments/assets/57e19715-15e3-45a4-b3d8-87c46e479325" width="260">
-  <br>
-  <i>Tampilan daftar modul animasi dalam aplikasi</i>
 </p>
 
 ---
